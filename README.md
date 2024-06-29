@@ -9,15 +9,19 @@
 * [Rust](https://github.com/UgurcanAkkok/AreWeRustYet)
 * [Wayland](https://arewewaylandyet.com/)
 * [XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory#Support)
+* [RISC-V](https://github.com/xmpf/awesome-risc-v)
 
 # Web
 * [ActivityPub](https://github.com/BasixKOR/awesome-activitypub)
+* [Browsers](https://privacytests.org/)
+	+ ECH: Encrypted Client Hello
 * [HTML5 for Gecko](https://wiki.mozilla.org/Platform/AreWeFunYet)
 * [P2P](https://arewedistributedyet.com/)
 
 # Instant messaging
 * [MLS](https://arewemlsyet.com/): Matrix implementation of Messaging Layer Security
 * [OIDC](https://areweoidcyet.com/): Status of Matrix OIDC
+* [XMPP](https://docs.modernxmpp.org/client/protocol/): Modern XMPP implementation
 
 Signal Protocol:
 * Facebook Messenger (unverifiable)
