@@ -2,6 +2,7 @@
 <p align="center">Current adoption status of various technologies.</p>
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
+* [Anticheat on Linux](https://areweanticheatyet.com/)
 * [Bidi](https://wiki.archlinux.org/title/Bidirectional_text#Support)
 * [Extended Attributes](https://wiki.archlinux.org/title/Extended_attributes#Software)
 * [JPEG XL](https://avidseeker.github.io/jxl/)
@@ -10,12 +11,13 @@
 * [Wayland](https://arewewaylandyet.com/)
 * [XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory#Support)
 * [RISC-V](https://github.com/xmpf/awesome-risc-v)
+* [System tray](https://wiki.archlinux.org/title/System_tray#Support)
 
 # Web
 * [ActivityPub](https://github.com/BasixKOR/awesome-activitypub)
 * [Browsers](https://privacytests.org/)
 	+ ECH: Encrypted Client Hello
-* [HTML5 for Gecko](https://wiki.mozilla.org/Platform/AreWeFunYet)
+* [HTML5 on Gecko](https://wiki.mozilla.org/Platform/AreWeFunYet)
 * [P2P](https://arewedistributedyet.com/)
 
 # Instant messaging
