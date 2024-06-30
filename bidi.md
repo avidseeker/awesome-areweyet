@@ -27,12 +27,12 @@ Fixed:
 * [Squiggly lines covering misspelled Arabic words](https://bugs.documentfoundation.org/show_bug.cgi?id=151968): libreoffice-7-5
 
 # Websites
-* 2022-08-30: [Reddit](https://www.reddit.com/r/bugs/comments/x1qdu6/)
-* 2020-06-16: [element.io](https://github.com/vector-im/element-web/issues/14520)
-* 2021-05-03: [Fluffy Chat](https://gitlab.com/famedly/fluffychat/-/issues/390)
-* 2018-11-03: [Discord](https://support.discord.com/hc/en-us/community/posts/360030086752-Add-Right-to-Left-RTL-support-to-Discord)
-* 2023-06-03: [Tutanota](https://www.reddit.com/r/tutanota/comments/13z584n/)
-* 2021-07-21: [Lemmy](https://github.com/LemmyNet/lemmy-ui/issues/347)
+* [Reddit](https://www.reddit.com/r/bugs/comments/x1qdu6/)
+* [element.io](https://github.com/vector-im/element-web/issues/14520)
+* [Fluffy Chat](https://gitlab.com/famedly/fluffychat/-/issues/390)
+* [Discord](https://support.discord.com/hc/en-us/community/posts/360030086752-Add-Right-to-Left-RTL-support-to-Discord)
+* [Tutanota](https://www.reddit.com/r/tutanota/comments/13z584n/)
+* [Lemmy](https://github.com/LemmyNet/lemmy-ui/issues/347)
 * [github](https://github.com/dear-github/dear-github/issues/147)
 
 # Workarounds

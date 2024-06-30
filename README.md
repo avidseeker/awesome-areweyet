@@ -2,37 +2,35 @@
 <p align="center">Current adoption status of various technologies.</p>
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
 
-* [Anticheat on Linux](https://areweanticheatyet.com/): compatibility of games using anticheats with Linux and Proton.
-* [Bidi](./bidi.md): Bidirectional Text Support status
-* [Dark theme](./darktheme.me)
-* [EditorConfig](https://editorconfig.org/)
-* [Extended Attributes](https://wiki.archlinux.org/title/Extended_attributes#Software):
-* [JPEG XL](./jpegxl.md)
-* [Liberation](./liberation.md): status of various locked-in formats and tools.
-* [Linux](./linux.md)
-* [Lossless metadata](./metadata.md)
-* [Quantum Computing](https://arewequantumyet.github.io/)
-* [Rust](https://github.com/UgurcanAkkok/AreWeRustYet)
-* [Sandboxing](./sandbox.md)
-* [Spreadsheets](./spreadsheets.md)
-* [Syntax Highlighting](./syntax.md)
-* [System tray](./systray.md)
-* [Wayland](https://arewewaylandyet.com/)
-* [XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory#Support)
+* [Are we Anticheat yet?](https://areweanticheatyet.com/): compatibility of games using anticheats with Linux and Proton.
+* [Are we Bidi yet?](./bidi.md): bidirectional Text support status
+* [Are we Dark Readers yet?](./darktheme.md): dark theme support
+* [Are we EditorConfig yet?](https://editorconfig.org/): consistent coding styles across different text editors and IDEs.
+* [Are we JPEG XL yet?](./jpegxl.md): next-generation, general-purpose image compression codec by the JPEG
+* [Are we Liberated yet?](./liberation.md): status of reverse-engineering various locked-in formats and tools.
+* [Are we Linux yet?](./linux.md): adoption status of Linux, POSIX, and The Open Group standards.
+* [Are we Preserving Metadata yet?](./metadata.md): metadata preservation across filesystems, file formats, and the internet.
+* [Are we Quantum Computing yet?](https://arewequantumyet.github.io/)
+* [Are we Plaintext yet? yet?](https://github.com/avidseeker/awesome-plaintext): tools that support version-control and plaintext-style configuration.
+* [Are we Rust yet?](https://github.com/UgurcanAkkok/AreWeRustYet)
+* [Are we Sandboxing yet?](./sandbox.md): sandboxing status in various applications.
+* [Are we System tray yet?](./systray.md): application support status of system tray.
+* [Are we Wayland yet?](https://arewewaylandyet.com/): a display server protocol, aimed to become the successor of the X Window System.
+* [Are we XDG Base Directory yet?](https://wiki.archlinux.org/title/XDG_Base_Directory#Support): specification for preventing the cluttering of $HOME directory.
 
 # Product Roadmaps
 * [MediaWiki](https://www.mediawiki.org/wiki/Feature_map)
 * [Tutanota](https://tuta.com/roadmap)
 
 # Web
-* [ActivityPub](./activitypub.md)
+* [Are we ActivityPub yet?](./activitypub.md)
 * [FEP](./fep.md)
-* [Browsers](https://privacytests.org/)
+* [Are we using Private Browsers yet?](https://privacytests.org/)
 	+ [Unsolicited connections](https://github.com/privacytests/privacytests.org/discussions/215)
 	+ [Performance](https://github.com/privacytests/privacytests.org/discussions/214)
 	+ ECH: Encrypted Client Hello
 * [HTML5 on Gecko](https://wiki.mozilla.org/Platform/AreWeFunYet)
-* [P2P](https://arewedistributedyet.com/)
+* [Are we Distributed yet?](https://arewedistributedyet.com/)
 
 # Instant messaging
 * [MLS](https://arewemlsyet.com/): Matrix implementation of Messaging Layer Security
