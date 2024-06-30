@@ -1,6 +1,6 @@
 ---
-title: Are we yet Liberated?
-date: 2024-06-15
+title: Are we Liberated yet?
+date: 2024-06-30
 ---
 
 * [Alternative front-ends](https://github.com/Myzel394/awesome-alternative-frontends)
@@ -27,6 +27,11 @@ Matrix
 Other options
 * [JMP Chat](https://jmp.chat/): native SMS service to XMPP
 * Google Voice: view SMS on Web
+
+# Maps
+* [What3Words algorithm](https://wiki.openstreetmap.org/wiki/What3words)
+	+ [ThisPlace](https://github.com/Placeware/ThisPlace)
+	+ [FixPhrase](https://fixphrase.com/)
 
 # Books and documents
 Free book and document data in source text:
