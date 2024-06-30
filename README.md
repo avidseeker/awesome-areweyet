@@ -24,7 +24,8 @@
 
 # Web
 * [Are we ActivityPub yet?](./activitypub.md)
-* [FEP](./fep.md)
+	+ [FEP implementation status](./fep.md)
+* [Are we Metalink yet?](https://en.wikipedia.org/wiki/Metalink)
 * [Are we using Private Browsers yet?](https://privacytests.org/)
 	+ [Unsolicited connections](https://github.com/privacytests/privacytests.org/discussions/215)
 	+ [Performance](https://github.com/privacytests/privacytests.org/discussions/214)

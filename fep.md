@@ -3,8 +3,13 @@ title: FEPs
 date: 2024-06-29
 ---
 
+* RSS standard by adding .rss
+* FEP-equivalent to [DOAP](https://xmpp.org/extensions/xep-0453.html)
+* Fediverse app reviewing system.
+
 # Save last position
 * Mastodon-android: [No](https://github.com/mastodon/mastodon-android/issues/70)
+
 # Hide read content
 ## Lemmy
 * Voyager: No
