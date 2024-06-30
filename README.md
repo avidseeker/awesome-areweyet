@@ -4,6 +4,7 @@
 
 * [Anticheat on Linux](https://areweanticheatyet.com/): compatibility of games using anticheats with Linux and Proton.
 * [Bidi](./bidi.md): Bidirectional Text Support status
+* [Dark theme](./darktheme.me)
 * [EditorConfig](https://editorconfig.org/)
 * [Extended Attributes](https://wiki.archlinux.org/title/Extended_attributes#Software):
 * [JPEG XL](./jpegxl.md)
@@ -12,9 +13,9 @@
 * [Lossless metadata](./metadata.md)
 * [Quantum Computing](https://arewequantumyet.github.io/)
 * [Rust](https://github.com/UgurcanAkkok/AreWeRustYet)
+* [Sandboxing](./sandbox.md)
 * [Spreadsheets](./spreadsheets.md)
 * [Syntax Highlighting](./syntax.md)
-* [Syntax](./syntax.md)
 * [System tray](./systray.md)
 * [Wayland](https://arewewaylandyet.com/)
 * [XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory#Support)
@@ -38,11 +39,8 @@
 * [MSC](https://github.com/matrix-org/matrix-spec-proposals): Matrix Spec Proposals
 * [OIDC](https://areweoidcyet.com/): Status of Matrix OIDC
 * [XMPP](https://docs.modernxmpp.org/client/protocol/): Modern XMPP implementation
-
-Signal Protocol:
-* Facebook Messenger (unverifiable)
-* WhatsApp (unverifiable)
 * [OMEMO](https://omemo.top/): XMPP Multi-End Message and Object Encryption status based off Signal Protocol.
+* [Signal Protocol](./liberation.md)
 
 # Reproduciblity
 * [Alpine Linux](https://tests.reproducible-builds.org/alpine/alpine.html)

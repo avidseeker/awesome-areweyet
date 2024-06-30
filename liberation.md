@@ -9,6 +9,10 @@ date: 2024-06-15
 # Instant Messaging
 * WhatsApp: [No](https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/)
 
+## Signal protocol
+* Facebook Messenger (unverifiable)
+* WhatsApp (unverifiable)
+
 ## SMS
 XMPP
 * [SMSRelay](https://github.com/jgaa/SmsRelay): Simple relay attempt
