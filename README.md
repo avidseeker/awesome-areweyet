@@ -20,65 +20,65 @@
 - [Are we XDG Base Directory yet?](https://wiki.archlinux.org/title/XDG_Base_Directory#Support) - specification for preventing the cluttering of $HOME directory.
 
 # Web
-* [Are we Distributed yet?](https://arewedistributedyet.com/)
-* [Are we ActivityPub yet?](./activitypub.md)
-	+ [FEP implementation status](./fep.md)
-* [Are we Metalink yet?](https://en.wikipedia.org/wiki/Metalink)
-* [Are we using Private Browsers yet?](https://privacytests.org/)
-	+ [Unsolicited connections](https://github.com/privacytests/privacytests.org/discussions/215)
-	+ [Performance](https://github.com/privacytests/privacytests.org/discussions/214)
-	+ Encrypted Client Hello
-* Are we HTML5 yet?
-	+ [Firefox](https://wiki.mozilla.org/Platform/AreWeFunYet)
+- [Are we Distributed yet?](https://arewedistributedyet.com/)
+- [Are we ActivityPub yet?](./activitypub.md)
+- [Are we FEP yet?](./fep.md) - ActivityPub Extensions
+- [Are we Metalink yet?](https://en.wikipedia.org/wiki/Metalink)
+- [Are we using Private Browsers yet?](https://privacytests.org/)
+	- [Unsolicited connections](https://github.com/privacytests/privacytests.org/discussions/215)
+	- [Performance](https://github.com/privacytests/privacytests.org/discussions/214)
+	- Encrypted Client Hello
+- Are we HTML5 yet?
+	- [Firefox](https://wiki.mozilla.org/Platform/AreWeFunYet)
 
 # Instant messaging
-* [Are we MLS yet?](https://arewemlsyet.com/) - Matrix implementation of Messaging Layer Security
-* [Are we MSC yet?](https://github.com/matrix-org/matrix-spec-proposals) - Matrix Spec Proposals
-* [Are we OIDC yet?](https://areweoidcyet.com/) - Matrix OIDC
-* Are we XMPP yet?:
-	+ [Are we OMEMO yet?](https://omemo.top/) - XMPP Multi-End Message and Object Encryption status based off Signal Protocol.
-	+ [ModernXMPP](https://docs.modernxmpp.org/client/protocol/) - modern XMPP implementation
-	+ [XEP](https://xmpp.org/extensions/) - implementations of XMPP Extended Protocols.
-* [Are we Signal Protocol yet?](./liberation.md)
+- [Are we MLS yet?](https://arewemlsyet.com/) - Matrix implementation of Messaging Layer Security
+- [Are we MSC yet?](https://github.com/matrix-org/matrix-spec-proposals) - Matrix Spec Proposals
+- [Are we OIDC yet?](https://areweoidcyet.com/) - Matrix OIDC
+- Are we XMPP yet?:
+	- [Are we OMEMO yet?](https://omemo.top/) - XMPP Multi-End Message and Object Encryption status based off Signal Protocol.
+	- [ModernXMPP](https://docs.modernxmpp.org/client/protocol/) - modern XMPP implementation
+	- [XEP](https://xmpp.org/extensions/) - implementations of XMPP Extended Protocols.
+- [Are we Signal Protocol yet?](./liberation.md)
 
 # Reproduciblity
-* [Alpine Linux](https://tests.reproducible-builds.org/alpine/alpine.html)
-* [Arch Linux](https://reproducible.archlinux.org/)
-* [Coreboot](https://tests.reproducible-builds.org/coreboot/)
-* [Debian](https://tests.reproducible-builds.org/debian/reproducible.html)
-* [Fedora](https://pagure.io/fedora-reproducible-builds/project)
-* [FreeBSD](https://tests.reproducible-builds.org/freebsd/)
-* [GNU Guix](https://data.guix.gnu.org/repository/1/branch/master/latest-processed-revision/package-reproducibility)
-* [Go](https://reproducible.nixos.org/)
-* [NetBSD](https://tests.reproducible-builds.org/netbsd/)
-* [NixOS](https://reproducible.nixos.org/)
-* [OpenWrt](https://tests.reproducible-builds.org/openwrt/)
-* [Qubes OS](https://qubesos.gitlab.io/qubes-g2g-report/)
-* [Trisquel GNU/Linux](https://gitlab.com/debdistutils/reproduce/trisquel/)
-* [Yocto Project](https://www.yoctoproject.org/reproducible-build-results/)
-* [openEuler](https://reproducible-builds.openeuler.org/)
-* [openSUSE](http://rb.zq1.de/compare.factory/)
+- [Alpine Linux](https://tests.reproducible-builds.org/alpine/alpine.html)
+- [Arch Linux](https://reproducible.archlinux.org/)
+- [Coreboot](https://tests.reproducible-builds.org/coreboot/)
+- [Debian](https://tests.reproducible-builds.org/debian/reproducible.html)
+- [Fedora](https://pagure.io/fedora-reproducible-builds/project)
+- [FreeBSD](https://tests.reproducible-builds.org/freebsd/)
+- [GNU Guix](https://data.guix.gnu.org/repository/1/branch/master/latest-processed-revision/package-reproducibility)
+- [Go](https://reproducible.nixos.org/)
+- [NetBSD](https://tests.reproducible-builds.org/netbsd/)
+- [NixOS](https://reproducible.nixos.org/)
+- [OpenWrt](https://tests.reproducible-builds.org/openwrt/)
+- [Qubes OS](https://qubesos.gitlab.io/qubes-g2g-report/)
+- [Trisquel GNU/Linux](https://gitlab.com/debdistutils/reproduce/trisquel/)
+- [Yocto Project](https://www.yoctoproject.org/reproducible-build-results/)
+- [openEuler](https://reproducible-builds.openeuler.org/)
+- [openSUSE](http://rb.zq1.de/compare.factory/)
 
 # Ports
-* [RISC-V](https://github.com/xmpf/awesome-risc-v)
-	+ [Arch Linux](https://archriscv.felixc.at/.status/status.htm)
-	+ [FreeBSD](https://wiki.freebsd.org/riscv/ports)
-	+ [Debian](https://wiki.debian.org/RISC-V)
-* ARM:
-	+ [FreeBSD](https://www.freshports.org/search.php?stype=name&method=match&query=u-boot-&num=100&orderby=category&orderbyupdown=asc&search=Search&format=html&branch=head)
-* ARM64
-	+ [Arch Linux](https://archlinuxarm.org/wiki/Platforms)
-	+ [FreeBSD](https://wiki.freebsd.org/arm64/ports)
-	+ [Debian](https://www.debian.org/ports/arm/)
-* 32-bit
-	+ [Arch Linux](https://www.archlinux32.org/packages/)
-	+ [Debian](https://www.debian.org/ports/i386/)
-* MIPS64
-	+ [Debian](https://wiki.debian.org/mips64el)
+- [RISC-V](https://github.com/xmpf/awesome-risc-v)
+	- [Arch Linux](https://archriscv.felixc.at/.status/status.htm)
+	- [FreeBSD](https://wiki.freebsd.org/riscv/ports)
+	- [Debian](https://wiki.debian.org/RISC-V)
+- ARM:
+	- [FreeBSD](https://www.freshports.org/search.php?stype=name&method=match&query=u-boot-&num=100&orderby=category&orderbyupdown=asc&search=Search&format=html&branch=head)
+- ARM64
+	- [Arch Linux](https://archlinuxarm.org/wiki/Platforms)
+	- [FreeBSD](https://wiki.freebsd.org/arm64/ports)
+	- [Debian](https://www.debian.org/ports/arm/)
+- 32-bit
+	- [Arch Linux](https://www.archlinux32.org/packages/)
+	- [Debian](https://www.debian.org/ports/i386/)
+- MIPS64
+	- [Debian](https://wiki.debian.org/mips64el)
 
 # Misc
-* [Are we Meta yet?](./meta.md) - status of this repo and other meta-trackers.
+- [Are we Meta yet?](./meta.md) - status of this repo and other meta-trackers.
 
 Other products roadmaps:
-* [MediaWiki](https://www.mediawiki.org/wiki/Feature_map)
-* [Tutanota](https://tuta.com/roadmap)
+- [MediaWiki](https://www.mediawiki.org/wiki/Feature_map)
+- [Tutanota](https://tuta.com/roadmap)
