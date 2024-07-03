@@ -8,6 +8,13 @@ date: 2024-06-30
 - X (Twitter):
 	- [IPFS](https://github.com/zedeus/nitter/issues/1188)
 	- [Nitter](https://github.com/zedeus/nitter)
+- Snapchat
+	- [RedSnap](https://github.com/gaessaki/RedSnap)
+	- [HN thread](https://news.ycombinator.com/item?id=23557998)
+	- [Hot3eed](https://hot3eed.github.io/snap_part1_obfuscations.html)
+	- [KevinPiacentini](https://medium.com/@KevinPiacentini/how-ive-created-my-own-snapchat-api-s-client-with-ios-app-reverse-engineering-ebbf0442afdd)
+	- [Source code leak](https://thenextweb.com/security/2018/08/07/hacker-swipes-snapchats-source-code-publishes-it-on-github/)
+	- [snaphax](https://github.com/tlack/snaphax)
 
 # Are we Surfing Raw yet?
 Commandline alternatives to commonly-used online convertors.

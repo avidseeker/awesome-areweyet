@@ -10,6 +10,10 @@ date: 2024-06-29
 # Save last position
 * Mastodon-android: [No](https://github.com/mastodon/mastodon-android/issues/70)
 
+# Export import
+* Mastodon: yes
+* [Lemmy](https://github.com/LemmyNet/lemmy/issues/506)
+
 # Hide read content
 ## Lemmy
 * Voyager: No

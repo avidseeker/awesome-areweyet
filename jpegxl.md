@@ -55,6 +55,8 @@ Metadata:
 # Android
 - [AOSP Gallery](https://issuetracker.google.com/issues/259900694)
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/issues/2669)
+- [Fossify Gallery](https://github.com/FossifyOrg/Gallery/issues/3)
+- [JPEG XL Glide plugin](https://github.com/awxkee/jxl-coder-glide)
 - [Ionut's Gallery](https://github.com/IacobIonut01/Gallery/issues/145)
 - [Aves](https://github.com/deckerst/aves/issues/56)
 - [Material Files](https://github.com/zhanghai/MaterialFiles/issues/995)

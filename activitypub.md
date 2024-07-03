@@ -3,9 +3,11 @@ title: Activitypub
 date: 2024-06-29
 ---
 
+* [Are we GeoPub yet?](https://codeberg.org/openEngiadina/geopub)
 * [Are we Webmentions yet?](https://indieweb.org/Webmention)
 * [Are we IndieAuth yet?](https://indieweb.org/IndieAuth)
 * [Is Tumblr federated yet?](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
+* [Is Discourse Federated yet?](https://meta.discourse.org/t/90921/21)
 * [Are forums federated yet?](https://sub.rehab/)
 * [Is Gitea federated yet?](https://github.com/go-gitea/gitea/issues/18240)
 * [MediaWiki](https://socialhub.activitypub.rocks/t/947)
