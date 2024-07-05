@@ -15,6 +15,9 @@ date: 2024-06-30
 	- [KevinPiacentini](https://medium.com/@KevinPiacentini/how-ive-created-my-own-snapchat-api-s-client-with-ios-app-reverse-engineering-ebbf0442afdd)
 	- [Source code leak](https://thenextweb.com/security/2018/08/07/hacker-swipes-snapchats-source-code-publishes-it-on-github/)
 	- [snaphax](https://github.com/tlack/snaphax)
+- Google Docs
+	- [Timeline](https://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+- [Windows](https://www.msys2.org/)
 
 # Are we Surfing Raw yet?
 Commandline alternatives to commonly-used online convertors.

@@ -10,11 +10,13 @@
 - [Are we JSON resume yet?](https://jsonresume.org/) - JSON-based standard for resumes.
 - [Are we Liberated yet?](./liberation.md) - status of reverse-engineering various locked-in formats and tools.
 - [Are we Linux yet?](./linux.md) - adoption status of Linux, POSIX, and The Open Group standards.
+- [Are we Plaintext yet?](https://github.com/avidseeker/awesome-plaintext) - tools that support version-control and plaintext-style configuration.
 - [Are we Preserving Metadata yet?](./metadata.md) - metadata preservation across filesystems, file formats, and the internet.
 - [Are we Quantum Computing yet?](https://arewequantumyet.github.io/)
-- [Are we Plaintext yet?](https://github.com/avidseeker/awesome-plaintext) - tools that support version-control and plaintext-style configuration.
 - [Are we Rust yet?](https://github.com/UgurcanAkkok/AreWeRustYet)
+- [Are we SIXEL yet?](https://www.arewesixelyet.com/)
 - [Are we Sandboxing yet?](./sandbox.md) - sandboxing status in various applications.
+- [Are we Secure yet?](https://security.archlinux.org/)
 - [Are we System tray yet?](./systray.md) - application support status of system tray.
 - [Are we Wayland yet?](https://arewewaylandyet.com/) - a display server protocol, aimed to become the successor of the X Window System.
 - [Are we XDG Base Directory yet?](https://wiki.archlinux.org/title/XDG_Base_Directory#Support) - specification for preventing the cluttering of $HOME directory.
@@ -58,6 +60,9 @@
 - [Yocto Project](https://www.yoctoproject.org/reproducible-build-results/)
 - [openEuler](https://reproducible-builds.openeuler.org/)
 - [openSUSE](http://rb.zq1.de/compare.factory/)
+
+Applications:
+- [Xournalpp](https://github.com/xournalpp/xournalpp/discussions/5749)
 
 # Ports
 - [RISC-V](https://github.com/xmpf/awesome-risc-v)

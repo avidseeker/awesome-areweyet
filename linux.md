@@ -16,3 +16,10 @@ date: 2024-06-29
 - Android
 - NetBSD
 - Cygwin
+
+# File systems
+- bcachefs support
+- Wonky "Pathological" filenames
+	- [lf](https://github.com/gokcehan/lf/issues/1114)
+- btrfs:
+	- [Encryption](https://lwn.net/Articles/700487/)
