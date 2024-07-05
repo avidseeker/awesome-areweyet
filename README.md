@@ -23,7 +23,7 @@
 
 # Web
 - [Are we Distributed yet?](https://arewedistributedyet.com/)
-- [Are we ActivityPub yet?](./activitypub.md)
+- [Are we Federated yet?](./fediverse.md)
 - [Are we FEP yet?](./fep.md) - ActivityPub Extensions
 - [Are we Metalink yet?](https://en.wikipedia.org/wiki/Metalink)
 - [Are we using Private Browsers yet?](https://privacytests.org/)
