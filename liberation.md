@@ -55,8 +55,6 @@ Other options
 
 # Books and documents
 Free book and document data in source text:
-- [Document Liberation Project](https://www.documentliberation.org/)
-- [Data Liberation Project](https://www.data-liberation-project.org/):
   government databases
 - [Standardbooks](https://standardebooks.org/)
 - [Gutenberg](https://gutenberg.org/)
