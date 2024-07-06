@@ -12,6 +12,7 @@ date: 2024-06-29
 - [Is Gitea federated yet?](https://github.com/go-gitea/gitea/issues/18240)
 - [MediaWiki](https://socialhub.activitypub.rocks/t/947)
 	- [Git-Mediawiki](https://github.com/Git-Mediawiki/Git-Mediawiki)
+- [FitTrackee](https://github.com/SamR1/FitTrackee/issues/16)
 
 # Are we migrated yet?
 Organizations migrating to the Fediverse:

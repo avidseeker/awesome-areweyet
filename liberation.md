@@ -6,6 +6,7 @@ date: 2024-06-30
 - [Alternative front-ends](https://github.com/Myzel394/awesome-alternative-frontends)
 - [Alternative front-ends2](https://github.com/mendel5/alternative-front-ends)
 - X (Twitter):
+	- [BirdSite](https://github.com/NicolasConstant/BirdsiteLive)
 	- [IPFS](https://github.com/zedeus/nitter/issues/1188)
 	- [Nitter](https://github.com/zedeus/nitter)
 - Snapchat
