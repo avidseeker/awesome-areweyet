@@ -10,6 +10,7 @@
 - [Are we JSON resume yet?](https://jsonresume.org/) - JSON-based standard for resumes.
 - [Are we Liberated yet?](./liberation.md) - status of reverse-engineering various locked-in formats and tools.
 - [Are we Linux yet?](./linux.md) - adoption status of Linux, POSIX, and The Open Group standards.
+- [Are we maintained yet?](https://seeking-maintainers.net/) - Projects seeking maintainers.
 - [Are we Plaintext yet?](https://github.com/avidseeker/awesome-plaintext) - tools that support version-control and plaintext-style configuration.
 - [Are we Preserving Metadata yet?](./meta.md) - metadata preservation across filesystems, file formats, and the internet.
 - [Are we Quantum Computing yet?](https://arewequantumyet.github.io/)
