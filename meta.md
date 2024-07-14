@@ -54,3 +54,8 @@ Thumbnails:
 - [Digital Freedoms](https://digitalfreedoms.org/en/dfd)
 - [Data Liberation Project](https://www.data-liberation-project.org/):
 - [EuroLinux](http://www.eurolinux.org/)
+
+Killed by Tech: 'Is it alive yet?'
+- [Killed by Google](https://killedbygoogle.com/)
+- [Killed by Microsoft](https://killedbymicrosoft.info/)
+- [Killed by Mozilla](https://killedbymozilla.com/)
