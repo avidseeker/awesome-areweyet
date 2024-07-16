@@ -29,6 +29,10 @@ Add other standards:
 	methods in the euoro area - threaded by software and business method
 	patents, to be cleaned up o rejected
 - [ ] ISO 27001
+- [ ] [DOAP](https://github.com/ewilderj/doap/wiki): Standardizing lists like this one.
+- [ ] Reviewing systems
+	- [ ] [Mangrove](https://mangrove.reviews/standard)
+	- [ ] [OpenPlaceReview](https://github.com/OpenPlaceReviews/opendb)
 
 ## Metadata
 - [Extended attributes preservation](https://wiki.archlinux.org/title/Extended_attributes#Support)
@@ -50,6 +54,7 @@ Thumbnails:
 - [Mozilla Wiki: Areweyet](https://wiki.mozilla.org/Areweyet)
 - [AreWeMetaYet.com](http://arewemetayet.com/)
 - [ffii Open Standards](https://web.archive.org/web/20180628141159/https://action.ffii.org/openstandards)
+- [TEI](https://tei-c.org/)
 - [Document Liberation Project](https://www.documentliberation.org/)
 - [Digital Freedoms](https://digitalfreedoms.org/en/dfd)
 - [Data Liberation Project](https://www.data-liberation-project.org/):
@@ -59,3 +64,7 @@ Killed by Tech: 'Is it alive yet?'
 - [Killed by Google](https://killedbygoogle.com/)
 - [Killed by Microsoft](https://killedbymicrosoft.info/)
 - [Killed by Mozilla](https://killedbymozilla.com/)
+
+FOSS Alternatives:
+- [switching.software](https://codeberg.org/swiso/website)
+- [switching.social](https://web.archive.org/web/20190915101437/https://switching.social/)

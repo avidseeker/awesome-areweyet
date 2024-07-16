@@ -5,6 +5,7 @@ date: 2024-06-30
 
 - [Alternative front-ends](https://github.com/Myzel394/awesome-alternative-frontends)
 - [Alternative front-ends2](https://github.com/mendel5/alternative-front-ends)
+- [Alternatives to Bloatware](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
 - X (Twitter):
 	- [BirdSite](https://github.com/NicolasConstant/BirdsiteLive)
 	- [IPFS](https://github.com/zedeus/nitter/issues/1188)
@@ -61,7 +62,7 @@ Free book and document data in source text:
 - [Gutenberg](https://gutenberg.org/)
 
 # File formats
-- [.spd](https://reverseengineering.stackexchange.com/questions/30532): No
-- Flash
-	- [ruffle](https://github.com/ruffle-rs/ruffle/issues/310)
-- Ninetendo: .nds, .cia
+- [Samsung Notes (spd)](https://reverseengineering.stackexchange.com/questions/30532)
+- [MultiDictionary eXchange (mdx)](https://github.com/csarron/mdict-analysis/blob/master/README.md)
+- Adobe Flash (swf, flv, fla): [ruffle](https://github.com/ruffle-rs/ruffle/issues/310)
+- Ninetendo (nds, cia)
