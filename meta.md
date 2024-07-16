@@ -33,6 +33,8 @@ Add other standards:
 - [ ] Reviewing systems
 	- [ ] [Mangrove](https://mangrove.reviews/standard)
 	- [ ] [OpenPlaceReview](https://github.com/OpenPlaceReviews/opendb)
+	- [ ] [Linux App reviews](https://discuss.kde.org/t/17476)
+- [ ] [TermBidi Spec](https://terminal-wg.pages.freedesktop.org/bidi/)
 
 ## Metadata
 - [Extended attributes preservation](https://wiki.archlinux.org/title/Extended_attributes#Support)
