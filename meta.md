@@ -35,22 +35,11 @@ Add other standards:
 	- [ ] [OpenPlaceReview](https://github.com/OpenPlaceReviews/opendb)
 	- [ ] [Linux App reviews](https://discuss.kde.org/t/17476)
 - [ ] [TermBidi Spec](https://terminal-wg.pages.freedesktop.org/bidi/)
-
-## Metadata
-- [Extended attributes preservation](https://wiki.archlinux.org/title/Extended_attributes#Support)
-- mtime preservation:
-	- Firefox: [No](https://bugzilla.mozilla.org/show_bug.cgi?id=733954), [2](https://bugzilla.mozilla.org/show_bug.cgi?id=733954)
-	- Firefox upload: No
-	- Chrome: [No](https://issues.chromium.org/issues/40405216), [2](https://bugs.chromium.org/p/chromium/issues/detail?id=4574)
-	- Chrome upload: No
-	- wget: [Yes](https://www.gnu.org/software/wget/manual/html_node/Time_002dStamping-Usage.html#Time_002dStamping-Usage)
-
-Thumbnails:
-- youtube-dl: [opus](https://github.com/ytdl-org/youtube-dl/issues/22338)
-
-## Are we M3U yet?
-[Standard](https://en.wikipedia.org/wiki/M3U#Extended_M3U)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp/issues/9114)
+- [ ] [Calendar Support](https://github.com/unicode-cldr/cldr-core/blob/218129a0ead6f82b1b7e4c146e4264f3b475c303/supplemental/calendarPreferenceData.json)
+- [ ] [Linux Syscalls](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
+- [ ] [Are we plain text emails yet?](https://useplaintext.email/)
+- [ ] [XDG Thumbnail spec](https://specifications.freedesktop.org/thumbnail-spec/latest/)
+- [ ] [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 # Similar projects
 - [Mozilla Wiki: Areweyet](https://wiki.mozilla.org/Areweyet)
